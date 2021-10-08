@@ -9,4 +9,5 @@ os: File manipulation, deletion of temporary files, file naming and creation, et
 ### not included with python
 requests: Internet requests, grabbing JSON data from pages, etc. https://pypi.org/project/ffmpeg-python/<br />
 ffmpeg-python: Stitches video and audio together if they are separated. https://pypi.org/project/ffmpeg-python/<br />
-pytube: Gets YouTube videos, and lets the program download them. https://pypi.org/project/pytube/<br />
+pytube: Gets YouTube videos, and lets the program download them. https://pypi.org/project/pytube/<br /><br />
+Thanks for viewing :)
