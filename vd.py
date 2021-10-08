@@ -183,5 +183,3 @@ elif 'youtube.com' in downloadOptions:
         out.run()
         os.remove('temporaryvideofile.' + vidtyp)
         os.remove('temporaryaudiofile.' + audtyp)
-elif downloadOptions == 'info' or 'Info' or 'i' or 'I':
-    print()
