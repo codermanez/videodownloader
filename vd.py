@@ -183,3 +183,10 @@ elif 'youtube.com' in downloadOptions:
         out.run()
         os.remove('temporaryvideofile.' + vidtyp)
         os.remove('temporaryaudiofile.' + audtyp)
+elif 'imgur.com' in downloadOptions:
+    if downloadOptions.endswith('/'):
+        downloadOptions = downloadOptions[:-1]
+    response = requests.get(downloadOptions + jsonSuffix, headers = {'User-agent': 'your bot 0.1'})
+    URLresponse = response.json()
+    filename = URLresponse["data"]["image"]["album_cover"] + ".mp4"
+    download_file("https://i.imgur.com/" + filename)
