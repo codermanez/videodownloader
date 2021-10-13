@@ -13,7 +13,7 @@ kinda a project which I work on from time to time.
 #### ffmpeg-python
 #### pytube
 ## Supported Websites
-### reddit.com
+### reddit.com (newly supported, there might be bugs)
 ### youtube.com (and youtu.be variant)
 ## Q/A
 ### Isn't this illegal?
