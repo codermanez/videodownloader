@@ -15,6 +15,7 @@ kinda a project which I work on from time to time.
 ## Supported Websites
 ### reddit.com (newly supported, there might be bugs)
 ### youtube.com (and youtu.be variant)
+### imgur.com
 ## Q/A
 ### Isn't this illegal?
 No, It isn't, what is illegal however, is redistributing videos as your own, this is a way to enjoy your favourite videos OFFLINE, and not to redistribute them.<br>
